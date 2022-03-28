@@ -1,0 +1,6 @@
+{
+	"appId": "com.tempo.game",
+	"appName": "tempo-front-ionic-v1",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

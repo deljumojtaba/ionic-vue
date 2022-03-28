@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tempo-front-ionic-v1</string>
+    <string name="title_activity_main">tempo-front-ionic-v1</string>
+    <string name="package_name">com.tempo.game</string>
+    <string name="custom_url_scheme">com.tempo.game</string>
+</resources>
