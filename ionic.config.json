@@ -1,0 +1,7 @@
+{
+  "name": "tempo-front-ionic-v1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
